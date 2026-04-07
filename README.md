@@ -24,7 +24,6 @@
 
 
 # 📝 Структура iOSWiki Content
-
 * [1 Common Folder](1%20Common/)
   * [1.1 Configs Folder](1%20Common%2F1.1%20Configs/)
     * [1.1.1 AllStartingConfigs.md](1%20Common%2F1.1%20Configs%2F1.1.1%20AllStartingConfigs.md)
@@ -266,9 +265,10 @@
         * [4.3.6.6.0 k8sLimitsAndRequests.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.0%20k8sLimitsAndRequests.md)
         * [4.3.6.6.1 k8sCPU.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.1%20k8sCPU.md)
         * [4.3.6.6.2 k8sMemory.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.2%20k8sMemory.md)
-        * [4.3.6.6.3 HorizontalPodAAutoscaler.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.3%20HorizontalPodAAutoscaler.md)
-        * [4.3.6.6.4 VerticalPodAutoscaler.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.4%20VerticalPodAutoscaler.md)
-        * [4.3.6.6.5 k8sQOS.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.5%20k8sQOS.md)
+        * [4.3.6.6.3 k8sThreadAndHeapDump.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.3%20k8sThreadAndHeapDump.md)
+        * [4.3.6.6.4 HorizontalPodAAutoscaler.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.4%20HorizontalPodAAutoscaler.md)
+        * [4.3.6.6.5 VerticalPodAutoscaler.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.5%20VerticalPodAutoscaler.md)
+        * [4.3.6.6.6 k8sQOS.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.6%20k8sQOS.md)
   * [4.4 CI-CD Folder](4%20Linkage%2F4.4%20CI-CD/)
     * [4.4.1 CI-CD.md](4%20Linkage%2F4.4%20CI-CD%2F4.4.1%20CI-CD.md)
     * [4.4.2  iOS_CI.md](/4%20Linkage/4.4%20CI-CD/4.4.2%20%20iOS_CI.md)
