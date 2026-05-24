@@ -18,4 +18,4 @@ Dependency Injection — это способ реализации [Dependency In
 
  ---
 
-[2.4.3 Design Pattern Theme](../2.4.1.3%20DesignPattern/) | [Back To iOSWiki Contents](https://github.com/eldaroid/iOSWiki) | [DRY Design Principle Theme](./DRY.md)
+[2.4.3 Design Pattern Theme](../2.4.1.3%20DesignPattern/) | [Back To iTWiki Contents](https://github.com/eldaroid/iTWiki) | [DRY Design Principle Theme](./DRY.md)

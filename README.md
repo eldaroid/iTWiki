@@ -1,8 +1,8 @@
 # iOS Wiki
 
 [![Language](https://img.shields.io/badge/Language-Swift-green&logo=Swift.svg)]()
-[![Repo Size](https://img.shields.io/github/repo-size/eldaroid/iOSWiki)]()
-[![Last Commit](https://img.shields.io/github/last-commit/eldaroid/iOSWiki)]()
+[![Repo Size](https://img.shields.io/github/repo-size/eldaroid/iTWiki)]()
+[![Last Commit](https://img.shields.io/github/last-commit/eldaroid/iTWiki)]()
 
 # 👨‍🎓 Для кого это?
 
@@ -23,7 +23,7 @@
 <img alt="Star the Expo repo on GitHub to support the project" src="https://user-images.githubusercontent.com/9664363/185428788-d762fd5d-97b3-4f59-8db7-f72405be9677.gif" width="50%">
 
 
-# 📝 Структура iOSWiki Content
+# 📝 Структура iTWiki Content
 * [1 Common Folder](1%20Common/)
   * [1.1 Configs Folder](1%20Common%2F1.1%20Configs/)
     * [1.1.1 AllStartingConfigs.md](1%20Common%2F1.1%20Configs%2F1.1.1%20AllStartingConfigs.md)

@@ -1,6 +1,6 @@
 ## URI/URL/URN
 
-![](https://github.com/eldaroid/pictures/blob/master/iOSWiki/ComputerScience/NewFullURISchem.jpg?raw=true)
+![](https://github.com/eldaroid/pictures/blob/master/iTWiki/ComputerScience/NewFullURISchem.jpg?raw=true)
 
 **URI (Uniform Resource Identifier)** - унифицированный идентификатор ресурса или полный адрес, по которому происходит обращение. В кратце, он позволяет идентифицировать какой-либо ресурс: физический (https://assets.habr.com/habr-web/img/favicons/favicon-16.png - файл на сервере) или абстрактный (https://www.youtube.com/watch?v=e_atyw0IDqg - его не существует).
 
@@ -8,7 +8,7 @@
 
 **URL (Uniform Resource Locator)** - унифицированный локатор ресурса или комбинация протокола и доменного имени. Пример: https://www.youtube.com. Аналогия URL из жизни: город N/улица M/квартира L
 
-![](https://github.com/eldaroid/pictures/blob/master/iOSWiki/ComputerScience/URLSchemeIniOS.png?raw=true)
+![](https://github.com/eldaroid/pictures/blob/master/iTWiki/ComputerScience/URLSchemeIniOS.png?raw=true)
 
 ### Составляющие URI
 
@@ -16,13 +16,13 @@
 
 **Query-параметры** - часть URI, следующая после ?. Пример: ?v=e_atyw0IDqg
 
-![](https://github.com/eldaroid/pictures/blob/master/iOSWiki/ComputerScience/QueryStructure.png?raw=true)
+![](https://github.com/eldaroid/pictures/blob/master/iTWiki/ComputerScience/QueryStructure.png?raw=true)
 
 Существуют варианты использования параметров URL:
 
-![](https://github.com/eldaroid/pictures/blob/master/iOSWiki/ComputerScience/Query.png?raw=true)
+![](https://github.com/eldaroid/pictures/blob/master/iTWiki/ComputerScience/Query.png?raw=true)
 
-### URL [encoding](https://github.com/eldaroid/iOSWiki/blob/master/5%20Swift/5.2%20Glossary.md#кодирование%20(запись))
+### URL [encoding](https://github.com/eldaroid/iTWiki/blob/master/5%20Swift/5.2%20Glossary.md#кодирование%20(запись))
 
 Стандарт URL использует набор символов [US-ASCII](/3%20Memory%20and%20Concurrency/3.1%20Memory/3.1.1%20AboutMemory/3.1.1.2%20ASCIIvsUNICODE.md). Является недостатком, поскольку разрешается использовать лишь латинские буквы, цифры и несколько знаков пунктуации. 
 
@@ -98,4 +98,4 @@
 
 ---
 
-[2.3.1.2 Rest API Theme](./2.3.1.2%20RestAPI.md) | [Back To iOSWiki Contents](https://github.com/eldaroid/iOSWiki) | [2.3.1.4 HTTP Methods Theme](./2.3.1.4%20HTTP_Methods.md)
+[2.3.1.2 Rest API Theme](./2.3.1.2%20RestAPI.md) | [Back To iTWiki Contents](https://github.com/eldaroid/iTWiki) | [2.3.1.4 HTTP Methods Theme](./2.3.1.4%20HTTP_Methods.md)

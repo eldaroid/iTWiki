@@ -164,4 +164,4 @@ SOLID и [ООП](/2%20ComputerScience/2.2%20Languages/2.2.2%20Paradigm/2.2.2.2%
 
 ---
 
-[KISS Design Principle Theme](./KISS.md) | [Back To iOSWiki Contents](https://github.com/eldaroid/iOSWiki) | [YAGNI Design Principle Theme](./YAGNI.md)
+[KISS Design Principle Theme](./KISS.md) | [Back To iTWiki Contents](https://github.com/eldaroid/iTWiki) | [YAGNI Design Principle Theme](./YAGNI.md)

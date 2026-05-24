@@ -107,7 +107,7 @@ struct ArticleView: View {
 * EnvironmentObject подход предполагает, что такое значение будет предоставлено во время **выполнения** (и неспособность сделать это приведет к сбою);
     > Это ограничивает от повторного использования Subview без раздумий в любом контексте, на любом экране. EnvironmentObject инжектируется в место, которое получит этот объект окружения
 
-![ThemeEnvironmentObject](https://github.com/eldaroid/pictures/blob/master/iOSWiki/Frameworks/SwiftUI/themeEnvironmentObject.png?raw=true)
+![ThemeEnvironmentObject](https://github.com/eldaroid/pictures/blob/master/iTWiki/Frameworks/SwiftUI/themeEnvironmentObject.png?raw=true)
 
 
 

@@ -4,4 +4,4 @@
 
 ---
 
-[DI Design Principle Theme Folder](./DI.md) | [Back To iOSWiki Contents](https://github.com/eldaroid/iOSWiki) | [KISS Theme](./KISS.md)
+[DI Design Principle Theme Folder](./DI.md) | [Back To iTWiki Contents](https://github.com/eldaroid/iTWiki) | [KISS Theme](./KISS.md)

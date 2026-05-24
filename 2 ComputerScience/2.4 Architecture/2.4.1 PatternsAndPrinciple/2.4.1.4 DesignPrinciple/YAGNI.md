@@ -10,4 +10,4 @@ YAGNI фокусируется на удалении лишнего функци
 
 ---
 
-[SOLID Design Principle Theme](./SOLID.md) | [Back To iOSWiki Contents](https://github.com/eldaroid/iOSWiki)
+[SOLID Design Principle Theme](./SOLID.md) | [Back To iTWiki Contents](https://github.com/eldaroid/iTWiki)

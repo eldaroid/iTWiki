@@ -21,4 +21,4 @@
 
 ---
 
-[MVC UIPattern  Theme](./MVC.md) | [Back To iOSWiki Contents](https://github.com/eldaroid/iOSWiki) | [VIP Theme](./VIP.md)
+[MVC UIPattern  Theme](./MVC.md) | [Back To iTWiki Contents](https://github.com/eldaroid/iTWiki) | [VIP Theme](./VIP.md)

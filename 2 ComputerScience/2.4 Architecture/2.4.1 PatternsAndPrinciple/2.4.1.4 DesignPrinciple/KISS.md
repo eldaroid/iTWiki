@@ -22,4 +22,4 @@ YAGNI фокусируется на удалении лишнего функци
 
 ---
 
-[DRY Design Principle Theme](./DRY.md) | [Back To iOSWiki Contents](https://github.com/eldaroid/iOSWiki) | [SOLID Design Principle Theme](./SOLID.md)
+[DRY Design Principle Theme](./DRY.md) | [Back To iTWiki Contents](https://github.com/eldaroid/iTWiki) | [SOLID Design Principle Theme](./SOLID.md)

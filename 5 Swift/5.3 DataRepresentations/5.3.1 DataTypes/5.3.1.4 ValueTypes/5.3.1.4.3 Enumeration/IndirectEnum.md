@@ -32,7 +32,7 @@ struct Woman {
 
 [Перечисления](./Enumeration.md) — это [типы значений](/5%20Swift/5.3%20DataRepresentations/5.3.1%20DataTypes/5.3.1.4%20ValueTypes/), которые по специфики управления [памятью Apple](/3%20Memory%20and%20Concurrency/3.1%20Memory/3.1.1%20AboutMemory/3.1.1.1%20Memory.md) должны быть определены **во время компиляции**. То есть необходимо точно знать, сколько ячеек памяти нам нужно выделить для каждого экземпляра, хранящегося в [стеке](/3%20Memory%20and%20Concurrency/3.1%20Memory/3.1.2%20RandomAccessMemory/3.1.2.2%20Stack.md). 
 
-Определяя внутри одного объекта типа значения тот же объект типа значения, мы создаем [рекурсию](https://github.com/eldaroid/iOSWiki/blob/master/2%20ComputerScience/2.2%20Languages/2.2.2%20Paradigm/2.2.2.1%20Declarative/2.2.2.1.1%20FunctionalProgramming(FP).md#рекурсия), в которой невозможно понять, сколько памяти нужно для выделить такого объекта. Фактически, выводится еще одна проблема: мы не можем определить свойство типа A внутри структуры A.
+Определяя внутри одного объекта типа значения тот же объект типа значения, мы создаем [рекурсию](https://github.com/eldaroid/iTWiki/blob/master/2%20ComputerScience/2.2%20Languages/2.2.2%20Paradigm/2.2.2.1%20Declarative/2.2.2.1.1%20FunctionalProgramming(FP).md#рекурсия), в которой невозможно понять, сколько памяти нужно для выделить такого объекта. Фактически, выводится еще одна проблема: мы не можем определить свойство типа A внутри структуры A.
 
 ---
 
@@ -159,4 +159,4 @@ enum MyEnum {
 
 ---
 
-[Enumeration Theme](./Enumeration.md) | [Back To iOSWiki Contents](https://github.com/eldaroid/iOSWiki) | [Optiona Theme](./Optional.md)
+[Enumeration Theme](./Enumeration.md) | [Back To iTWiki Contents](https://github.com/eldaroid/iTWiki) | [Optiona Theme](./Optional.md)

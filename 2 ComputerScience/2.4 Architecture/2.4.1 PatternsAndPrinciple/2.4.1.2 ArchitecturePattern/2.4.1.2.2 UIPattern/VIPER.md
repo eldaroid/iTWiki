@@ -1,6 +1,6 @@
 ## VIPER
 
-![viper](https://github.com/eldaroid/pictures/blob/master/iOSWiki/DesignPatterns/viper.png?raw=true)
+![viper](https://github.com/eldaroid/pictures/blob/master/iTWiki/DesignPatterns/viper.png?raw=true)
 
 * "V", View: displays what it is told to by the Presenter and relays user input back to the Presenter.
 
@@ -17,9 +17,9 @@
 
 Разница между VIP и VIPER - полярность. VIP - однополярный роутер. VIPER - двух полярный роутер.
 
-![Viper vs VIP](https://github.com/eldaroid/pictures/blob/master/iOSWiki/DesignPatterns/vip_vs_viper.png?raw=true)
+![Viper vs VIP](https://github.com/eldaroid/pictures/blob/master/iTWiki/DesignPatterns/vip_vs_viper.png?raw=true)
 
 
 ---
 
-[VIP UIPattern Theme](./VIP.md) | [Back To iOSWiki Contents](https://github.com/eldaroid/iOSWiki) | [2.4.1.3 Design Pattern Theme Folder](/2%20ComputerScience/2.4%20Architecture/2.4.1%20PatternsAndPrinciple/2.4.1.3%20DesignPattern/)
+[VIP UIPattern Theme](./VIP.md) | [Back To iTWiki Contents](https://github.com/eldaroid/iTWiki) | [2.4.1.3 Design Pattern Theme Folder](/2%20ComputerScience/2.4%20Architecture/2.4.1%20PatternsAndPrinciple/2.4.1.3%20DesignPattern/)
