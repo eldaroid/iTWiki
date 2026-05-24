@@ -7,15 +7,15 @@
 
 Наш Controller присоединяется к View:
 
-![alt text](https://github.com/eldaroid/pictures/blob/master/Swift/MVVM.jpg?raw=true)
+![MVVM](https://github.com/eldaroid/pictures/blob/master/Swift/MVVM.jpg?raw=true)
 
 Появляется ViewModel:
 
-![alt text](https://github.com/eldaroid/pictures/blob/master/Swift/MVVM2.jpg?raw=true)
+![MVVM2](https://github.com/eldaroid/pictures/blob/master/Swift/MVVM2.jpg?raw=true)
 
 Наш Controller становится единым центром с View:
 
-![alt text](https://github.com/eldaroid/pictures/blob/master/Swift/MVVM3.jpg?raw=true)
+![MVVM3](https://github.com/eldaroid/pictures/blob/master/Swift/MVVM3.jpg?raw=true)
 
 Таким образом, View (controller) содержит ViewModel, а ViewModel содержит Model(Domain).
 

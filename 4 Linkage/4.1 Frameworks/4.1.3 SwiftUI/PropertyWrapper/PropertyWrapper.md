@@ -7,7 +7,7 @@ Property Wrapper (“Обертка Свойства”) — это просто
 > Благодаря этому мы наконец-то поймем, что такие вещи как @State, @StateObject, @Published, @ObservedObject и другие @штуковины делают под «капотом»
 
 
-![PropertyWrappers](https://raw.githubusercontent.com/eldaroid/pictures/master/iTWiki/Frameworks/SwiftUI/PropertyWrappers.jpg)
+![PropertyWrappers](/pictures/Frameworks/SwiftUI/PropertyWrappers.jpg)
 
 Список 17ти SwiftUI Property Wrappers:
 

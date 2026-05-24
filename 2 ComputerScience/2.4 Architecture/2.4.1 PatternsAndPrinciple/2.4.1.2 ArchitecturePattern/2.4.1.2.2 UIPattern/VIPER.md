@@ -1,6 +1,6 @@
 ## VIPER
 
-![viper](https://github.com/eldaroid/pictures/blob/master/iTWiki/DesignPatterns/viper.png?raw=true)
+![viper](/pictures/DesignPatterns/viper.png?raw=true)
 
 * "V", View: displays what it is told to by the Presenter and relays user input back to the Presenter.
 
@@ -17,7 +17,7 @@
 
 Разница между VIP и VIPER - полярность. VIP - однополярный роутер. VIPER - двух полярный роутер.
 
-![Viper vs VIP](https://github.com/eldaroid/pictures/blob/master/iTWiki/DesignPatterns/vip_vs_viper.png?raw=true)
+![Viper vs VIP](/pictures/DesignPatterns/vip_vs_viper.png?raw=true)
 
 
 ---

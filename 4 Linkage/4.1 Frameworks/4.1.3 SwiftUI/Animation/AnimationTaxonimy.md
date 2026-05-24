@@ -8,7 +8,7 @@
 Типы анимации:
 
 <div style="text-align: center;">
-    <img src="https://github.com/eldaroid/pictures/blob/master/iTWiki/Frameworks/SwiftUI/Animation/TypesOfAnimation.jpeg?raw=true" alt="Описание изображения" style="width: 50%; height: auto;">
+    <img src="https://github.com/eldaroid/iTWiki/blob/master/pictures/Frameworks/SwiftUI/Animation/TypesOfAnimation.jpeg?raw=true" alt="Описание изображения" style="width: 50%; height: auto;">
 </div>
 
 * Explicit Animation (Явная анимация) = `withAnimation`;
@@ -24,7 +24,7 @@
 
 [Согласно эплу](https://developer.apple.com/videos/play/wwdc2023/10156/), существую типы анимации:
 
-![](https://github.com/eldaroid/pictures/blob/master/iTWiki/Frameworks/SwiftUI/Animation/AnimationStyles.png?raw=true)
+![AnimationStyles](/pictures/Frameworks/SwiftUI/Animation/AnimationStyles.png?raw=true)
 
 * Timing curve (по дефолту duration=0.35сек.): 
     * default 
@@ -37,13 +37,13 @@
     * default spring
 
     * smooth // нет отскока (no bounce)
-        ![](https://github.com/eldaroid/pictures/blob/master/iTWiki/Frameworks/SwiftUI/Animation/smooth.png?raw=true)
+        ![smooth](/pictures/Frameworks/SwiftUI/Animation/smooth.png?raw=true)
     
     * snappy // маленький отскок (small bounce)
-        ![](https://github.com/eldaroid/pictures/blob/master/iTWiki/Frameworks/SwiftUI/Animation/snappy.png?raw=true)
+        ![snappy](/pictures/Frameworks/SwiftUI/Animation/snappy.png?raw=true)
     
     * bouncy // средний отскок (medium bounce)
-        ![](https://github.com/eldaroid/pictures/blob/master/iTWiki/Frameworks/SwiftUI/Animation/bounce.png?raw=true)
+        ![bounce](/pictures/Frameworks/SwiftUI/Animation/bounce.png?raw=true)
     
     * [interpolating](/5%20Swift/5.2%20Glossary.md#экстраполяцияинтерполяция) spring - запуская анимацию несколько раз, эффект пружины будет становиться все сильнее и сильнее по мере объединения пружин
 

@@ -13,7 +13,7 @@ MVC:
 
 MVC is about managing the communications between these different types. The keys are:
 
-![alt text](https://github.com/eldaroid/pictures/blob/master/Swift/MVC.jpg?raw=true)
+![MVC](https://github.com/eldaroid/pictures/blob/master/Swift/MVC.jpg?raw=true)
 
 * The **controller** can talk to both the model and the view directly.
 * The **model** and the **view** should *NEVER* talk to each other. They handle entirely different parts of the application

@@ -4,6 +4,6 @@
 
 **Одиночка (Singleton)** — это порождающий паттерн проектирования, который гарантирует, что у класса есть только один экземпляр, и предоставляет к нему глобальную точку доступа.
 
-![](https://github.com/eldaroid/pictures/blob/master/iTWiki/ComputerScience/Singleton.png?raw=true)
+![Singleton](/pictures/ComputerScience/Singleton.png?raw=true)
 
 **Singleton** не имеет публичного конструктора, поэтому единственный способ получить его объект — это вызвать метод getInstance. Этот метод сохранит первый созданный объект и будет возвращать его при всех последующих вызовах.
