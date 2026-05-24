@@ -24,6 +24,8 @@
 
 
 # 📝 Структура iTWiki Content
+# Project tree
+
 * [1 Common Folder](1%20Common/)
   * [1.1 Configs Folder](1%20Common%2F1.1%20Configs/)
     * [1.1.1 AllStartingConfigs.md](1%20Common%2F1.1%20Configs%2F1.1.1%20AllStartingConfigs.md)
@@ -210,6 +212,10 @@
     * [4.1.3 SwiftUI Folder](4%20Linkage%2F4.1%20Frameworks%2F4.1.3%20SwiftUI/)
       * [Animation Folder](4%20Linkage%2F4.1%20Frameworks%2F4.1.3%20SwiftUI%2FAnimation/)
         * [AnimationProject Folder](4%20Linkage%2F4.1%20Frameworks%2F4.1.3%20SwiftUI%2FAnimation%2FAnimationProject/)
+          * [Animation Folder](4%20Linkage%2F4.1%20Frameworks%2F4.1.3%20SwiftUI%2FAnimation%2FAnimationProject%2FAnimation/)
+            * [AnimationApp.swift](4%20Linkage%2F4.1%20Frameworks%2F4.1.3%20SwiftUI%2FAnimation%2FAnimationProject%2FAnimation%2FAnimationApp.swift)
+            * [ContentView.swift](4%20Linkage%2F4.1%20Frameworks%2F4.1.3%20SwiftUI%2FAnimation%2FAnimationProject%2FAnimation%2FContentView.swift)
+            * [Preview Content Folder](4%20Linkage%2F4.1%20Frameworks%2F4.1.3%20SwiftUI%2FAnimation%2FAnimationProject%2FAnimation%2FPreview%20Content/)
         * [AnimationTaxonimy.md](4%20Linkage%2F4.1%20Frameworks%2F4.1.3%20SwiftUI%2FAnimation%2FAnimationTaxonimy.md)
         * [CoordinateSystem.md](4%20Linkage%2F4.1%20Frameworks%2F4.1.3%20SwiftUI%2FAnimation%2FCoordinateSystem.md)
       * [Environment Folder](4%20Linkage%2F4.1%20Frameworks%2F4.1.3%20SwiftUI%2FEnvironment/)
@@ -271,8 +277,8 @@
         * [4.3.6.6.6 k8sQOS.md](4%20Linkage%2F4.3%20Docker%2F4.3.6%20Orchestrators%2F4.3.6.6%20Resources%2F4.3.6.6.6%20k8sQOS.md)
   * [4.4 CI-CD Folder](4%20Linkage%2F4.4%20CI-CD/)
     * [4.4.1 CI-CD.md](4%20Linkage%2F4.4%20CI-CD%2F4.4.1%20CI-CD.md)
-    * [4.4.2  iOS_CI.md](/4%20Linkage/4.4%20CI-CD/4.4.2%20%20iOS_CI.md)
-    * [4.4.3 🤖 Android_CI.md](4%20Linkage%2F4.4%20CI-CD%2F4.4.3%20%F0%9F%A4%96%20Android_CI.md)
+    * [4.4.2  iOS_CI.md](4%20Linkage%2F4.4%20CI-CD%2F4.4.2%20%FFFFFFFFFFFFFFEF%20iOS_CI.md)
+    * [4.4.3 🤖 Android_CI.md](4%20Linkage%2F4.4%20CI-CD%2F4.4.3%20%FFFFFFFFFFFFFFF0%20Android_CI.md)
 * [5 Swift Folder](5%20Swift/)
   * [5.1 Swift.md](5%20Swift%2F5.1%20Swift.md)
   * [5.2 Glossary.md](5%20Swift%2F5.2%20Glossary.md)

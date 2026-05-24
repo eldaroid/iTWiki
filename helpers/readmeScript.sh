@@ -36,7 +36,7 @@ generate_tree() {
         # Проверяем, является ли элемент директорией
         if [ -d "$file" ]; then
             case "$basename_file" in
-                *.xcodeproj|*.xcassets)
+                *.xcodeproj|*.xcassets|pictures)
                     # Пропускаем директории с указанными расширениями
                     continue
                     ;;
