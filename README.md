@@ -7,14 +7,10 @@
 # 👨‍🎓 Для кого это?
 
 Эти материалы будут полезны для:
-* Для любого, кто захочет стать iOS разработчиком;
-* Для iOS разработчиков, которые готовятся к собеседованию;
-* Для iOS разработчиков, которые находятся на уровне trainee|junior|middle и хотят вырасти;
+* Для любого, кто захочет войти в Айти;
+* Для iT-специалистов, которые готовятся к собеседованию;
+* Для iT-специалистов, которые находятся на уровне trainee|junior|middle и хотят вырасти;
 * Для инженеров, которые хотят понимать больше про [Computer Science](./2%20ComputerScience/);
-
-# 💼🧑🏻‍💼 Матрицы компетенций
-
-Ознакомиться с матрицей компетенций для Junior/Middle/Senior iOS/Android Инженера разработчика: [iOS/Android](./МатрицаКомпетенцийAndroidIOS.xlsx.zip)
 
 # 👨‍🏫 Цель проекта
 
@@ -22,6 +18,10 @@
 
 <img alt="Star the Expo repo on GitHub to support the project" src="https://user-images.githubusercontent.com/9664363/185428788-d762fd5d-97b3-4f59-8db7-f72405be9677.gif" width="50%">
 
+
+# 💼🧑🏻‍💼 Матрицы компетенций
+
+Ознакомиться с матрицей компетенций для Junior/Middle/Senior iOS/Android Инженера разработчика: [iOS/Android](./МатрицаКомпетенцийAndroidIOS.xlsx.zip)
 
 # 📝 Структура iTWiki Content
 # Project tree
