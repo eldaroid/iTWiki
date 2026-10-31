@@ -2,7 +2,7 @@
 
 1. [All SwiftUI property wrappers explained and compared](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)
 
-Property Wrapper (“Обертка Свойства”) — это просто структура struct, в которую встроен некоторый шаблон “поведения” переменной var, которую эта структура struct “оборачивает”. Реализация [дизайн паттерна](/2%20ComputerScience/2.4%20Architecture/2.4.1%20PatternsAndPrinciple/2.4.1.3%20DesignPattern/2.4.1.3.1%20ListOfDesignPattern.md) - [декоратора](/2%20ComputerScience/2.4%20Architecture/2.4.1%20PatternsAndPrinciple/2.4.1.3%20DesignPattern/2.4.1.3.4%20Structural/Decorator.md).
+Property Wrapper (“Обертка Свойства”) — это просто структура struct, в которую встроен некоторый шаблон “поведения” переменной var, которую эта структура struct “оборачивает”. Реализация [дизайн паттерна](/2%20ComputerScience/2.4%20Architecture/2.4.1%20PatternsAndPrinciple/2.4.1.3%20DesignPattern/) - [декоратора](/2%20ComputerScience/2.4%20Architecture/2.4.1%20PatternsAndPrinciple/2.4.1.3%20DesignPattern/2.4.1.3.4%20Structural/Decorator.md).
 
 > Благодаря этому мы наконец-то поймем, что такие вещи как @State, @StateObject, @Published, @ObservedObject и другие @штуковины делают под «капотом»
 

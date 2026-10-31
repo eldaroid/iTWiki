@@ -54,6 +54,6 @@
 
 
 
-Просмотр демонстрации: [Project](./AnimationProject/)
+Просмотр демонстрации: [Project](./AnimationProjectFolder/)
 
 ----
