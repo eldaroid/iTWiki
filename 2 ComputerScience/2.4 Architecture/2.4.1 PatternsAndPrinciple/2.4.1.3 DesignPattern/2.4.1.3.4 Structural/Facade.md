@@ -34,6 +34,10 @@
 
 ## Частный случай BFF (Backend for Frontend) 
 
+BFF — это архитектурный паттерн на уровне сервисов, а фасад — паттерн проектирования на уровне кода
+
+![BFFvsApiGateway](/pictures/ComputerScience/PatternsAndPrinciple/BFFvsApiGateway.png)
+
 ### Api Gateway vs BFF
 
 В отличие от API Gateway, который просто перенаправляет запросы, BFF **трансформирует данные**.
