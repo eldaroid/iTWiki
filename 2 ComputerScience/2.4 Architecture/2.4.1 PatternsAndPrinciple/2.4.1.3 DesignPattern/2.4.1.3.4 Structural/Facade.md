@@ -42,7 +42,7 @@ BFF — это архитектурный паттерн на уровне се�
 
 В отличие от API Gateway, который просто перенаправляет запросы, BFF **трансформирует данные**.
 
-**API Gateway** — общая точка входа для всех клиентов, решает кросс-задачные вещи: аутентификация, rate limiting, маршрутизация, логирование.
+**API Gateway** — общая точка входа для всех клиентов, решает кросс-задачные вещи: [аутентификация](https://github.com/eldaroid/iTWiki/blob/master/2%20ComputerScience/2.5%20Cybersecurity/2.5.5%20AuthenticationvsAuthorization.md#authentication-vs-authorization), rate limiting, маршрутизация, логирование.
 
 **BFF** — отдельный фасад (бэк) под конкретный клиент (web / mobile / partner), решает задачи агрегации и адаптации данных под этот клиент.
 
