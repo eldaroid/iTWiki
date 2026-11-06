@@ -1,4 +1,4 @@
-# iOS Wiki
+# iT Wiki
 
 [![Language](https://img.shields.io/badge/Language-Swift-green&logo=Swift.svg)]()
 [![Repo Size](https://img.shields.io/github/repo-size/eldaroid/iTWiki)]()
